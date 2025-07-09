@@ -92,8 +92,28 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [MIT](https://choosealicense.com/licenses/mit/)
 Or mention your preferred license.
 
----
+### example
 
+```txt
+MIT License  
+Copyright (c) 2025 Faysal
+```
+or License file by create
+```
+MIT License
+
+Copyright (c) 2025 Faysal
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files...
+```
+or readme.md
+
+```
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+```
 ## ❤️ Author
 
 * **Your Name**
