@@ -1,17 +1,16 @@
-# Sample-Example-Project-Structure-
-
+# Sample-Example-Project-Structure:
 
 ## 🧾 Sample `README.md` (with Project Structure)
 
 ```markdown
-# 🐍 My Python Project
+🐍 My Python Project
 
 A short description of what your project does and who it's for.  
 Example: A simple Python app that helps users manage their daily tasks via CLI.
 
----
 
-## 📁 Project Structure
+
+📁 Project Structure
 
 my-python-project/
 ├── .gitignore          ✅ Git config
@@ -20,8 +19,7 @@ my-python-project/
 ├── requirements.txt    📦 Dependency list
 ├── README.md           📄 Project info
 └── .vscode/            🛠️ Editor settings (optional)
-
----
+```
 
 ## ⚙️ Setup Instructions
 
