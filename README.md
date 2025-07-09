@@ -13,8 +13,6 @@ Example: A simple Python app that helps users manage their daily tasks via CLI.
 
 ## 📁 Project Structure
 
-```
-
 my-python-project/
 ├── .gitignore          ✅ Git config
 ├── .venv/              🚫 Git ignores this
@@ -22,9 +20,6 @@ my-python-project/
 ├── requirements.txt    📦 Dependency list
 ├── README.md           📄 Project info
 └── .vscode/            🛠️ Editor settings (optional)
-
-
-````
 
 ---
 
