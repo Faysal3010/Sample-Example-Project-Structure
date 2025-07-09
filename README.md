@@ -1,8 +1,11 @@
-# Sample-Example-Project-Structure:
+# 🧾 Sample Template `README.md` :
 
-## 🧾 Sample `README.md` (with Project Structure)
+```
+Faysal Mahmud
+https://github.com/Faysal3010
+faysalmahmud4300@gmail.com 
+```
 
-```markdown
 🐍 My Python Project
 
 A short description of what your project does and who it's for.  
@@ -10,15 +13,16 @@ Example: A simple Python app that helps users manage their daily tasks via CLI.
 
 
 
-📁 Project Structure
+# 📁 Project Structure
 
+```markdown
 my-python-project/
-├── .gitignore          ✅ Git config
-├── .venv/              🚫 Git ignores this
-├── main.py             🧠 Your logic here
-├── requirements.txt    📦 Dependency list
-├── README.md           📄 Project info
-└── .vscode/            🛠️ Editor settings (optional)
+├── .gitignore           Git config
+├── .venv/               Git ignores this
+├── main.py              Your logic here
+├── requirements.txt     Dependency list
+├── README.md            Project info
+└── .vscode/             Editor settings (optional)
 ```
 
 ## ⚙️ Setup Instructions
@@ -29,7 +33,7 @@ Follow these steps to run the project on your local machine:
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-````
+```
 
 ### 2. Create virtual environment
 
@@ -67,9 +71,9 @@ python main.py
 
 ## 🔐 Environment Variables (if any)
 
-If your project uses `.env`, make sure to:
+If your project uses `.env` or `.venv` , make sure to:
 
-1. Create a `.env` file in the root folder
+1. Create a `.env` or `.venv` file in the root folder
 2. Add necessary keys like:
 
 ```
@@ -96,13 +100,13 @@ Or mention your preferred license.
 
 ```txt
 MIT License  
-Copyright (c) 2025 Faysal
+Copyright (c) 2025 Faysal Mahmud
 ```
 or License file by create
 ```
 MIT License
 
-Copyright (c) 2025 Faysal
+Copyright (c) 2025 Faysal Mahmud
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files...
@@ -114,24 +118,19 @@ License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 ```
-## ❤️ Author
+##  Author 
 
 * **Your Name**
 * GitHub: [your-username](https://github.com/your-username)
 * Email: [your@email.com](mailto:your@email.com)
 
+## ✅ Checklist: In README
+
 ```
-
----
-
-## ✅ Checklist: README তে যা থাকছে
-
-| Section | দরকার কেন? |
-|--------|------------|
-| 📂 Project Structure | কেউ ক্লোন করে বুঝতে পারবে কোন ফাইল কী |
-| ⚙️ Setup Guide | রান করানোর জন্য পুরো প্রসেস |
-| 🔐 Env Variables | API key / config ফাইল ব্যাখ্যা |
-| 🤝 Contribution | কেউ চাইলে contribute করতে পারবে |
-| 📄 License | Legal terms (MIT/Apache etc.) |
-
-
+Section                          
+1.📂 Project Structure 
+2.⚙️ Setup Guide 
+3.🔐 Env Variables 
+4.🤝 Contribution 
+5.📄 License 
+```
