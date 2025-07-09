@@ -110,7 +110,7 @@ of this software and associated documentation files...
 or readme.md
 
 ```
-## License
+License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 ```
