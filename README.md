@@ -16,14 +16,13 @@ Example: A simple Python app that helps users manage their daily tasks via CLI.
 ```
 
 my-python-project/
-├── .gitignore              # Git ignore rules
-├── .venv/                  # Virtual environment (not included in repo)
-├── main.py                 # Main script file
-├── requirements.txt        # Python dependencies
-├── README.md               # You're reading it 😉
-├── .vscode/                # VSCode settings (optional)
-└── src/                    # Source code folder (if applicable)
-└── **init**.py
+├── .gitignore          ✅ Git config
+├── .venv/              🚫 Git ignores this
+├── main.py             🧠 Your logic here
+├── requirements.txt    📦 Dependency list
+├── README.md           📄 Project info
+└── .vscode/            🛠️ Editor settings (optional)
+
 
 ````
 
